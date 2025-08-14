@@ -15,8 +15,8 @@ I'm a passionate Computer Science student from India, with a love for building c
 - 🔭 &nbsp; I’m currently building **[Paturnix](https://github.com/Devanshu-23/Paturnix)**, a pattern-matching puzzle game with React.
 - 🌱 &nbsp; I’m currently deepening my knowledge in cloud technologies and system design.
 - 👯 &nbsp; I’m looking to collaborate on open-source projects, especially in web or game development.
-- 📫 &nbsp; How to reach me: Reach out on ![LinkedIn](https://www.linkedin.com/in/devanshu-gaur)!
-- ⚡ &nbsp; Fun fact: When I'm not coding, I'm probably watching a Premier League match or reading manga.
+- 📫 &nbsp; How to reach me: Reach out on [LinkedIn](https://www.linkedin.com/in/devanshu-gaur)!
+- ⚡ &nbsp; Fun fact: When I'm not coding, I'm probably watching anime or reading manga.
 
 ---
 
