@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Devanshu
 
-<a href="www.linkedin.com/in/devanshu-gaur">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu-gaur)
 <a href="mailto:devanshugaur234@gmail.com" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -17,7 +15,7 @@ I'm a passionate Computer Science student from India, with a love for building c
 - 🔭 &nbsp; I’m currently building **[Paturnix](https://github.com/Devanshu-23/Paturnix)**, a pattern-matching puzzle game with React.
 - 🌱 &nbsp; I’m currently deepening my knowledge in cloud technologies and system design.
 - 👯 &nbsp; I’m looking to collaborate on open-source projects, especially in web or game development.
-- 📫 &nbsp; How to reach me: Reach out on [LinkedIn](www.linkedin.com/in/devanshu-gaur)!
+- 📫 &nbsp; How to reach me: Reach out on ![LinkedIn](https://www.linkedin.com/in/devanshu-gaur)!
 - ⚡ &nbsp; Fun fact: When I'm not coding, I'm probably watching a Premier League match or reading manga.
 
 ---
