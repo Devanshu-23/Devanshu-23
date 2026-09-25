@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Devanshu
+### Hello there, I'm Devanshu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu-gaur)
 <a href="mailto:devanshugaur234@gmail.com" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
@@ -37,11 +37,11 @@ Currently learning, experimenting, and working on new projects across software e
 ### 📊 My GitHub Stats
 
 <p align="center">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=Devanshu-23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devanshu-23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu-23&layout=compact&theme=radical&hide_border=true" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Devanshu-23&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
